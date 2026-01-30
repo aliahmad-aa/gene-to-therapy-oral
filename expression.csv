@@ -1,0 +1,21 @@
+Gene Name,Patient X,Label
+YWHAZ,22.1,normal
+UBC,9.4,normal
+TUBA1A,8.7,normal
+TP53,120.5,upregulated
+RPL13A,18.3,upregulated
+RB1,0.8,downregulated
+PTEN,1.2,downregulated
+PGK1,44.6,normal
+MYC,95.3,upregulated
+KRAS,130.6,upregulated
+HPRT1,5.2,normal
+HMBS,7.9,normal
+GAPDH,60.3,downregulated
+ERBB2,110.2,upregulated
+EGFR,140.8,upregulated
+CDH1,2.1,downregulated
+BRCA1,1.9,downregulated
+B2M,35.7,normal
+APC,2.4,downregulated
+ACTB,52.4,upregulated

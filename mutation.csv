@@ -1,0 +1,21 @@
+﻿Gene Name,Mutation Status,Change
+TP53,mutated,c.743G>A (p.R248Q)
+MYC,mutated,c.211C>T (p.P71S)
+EGFR,mutated,c.2573T>G (p.L858R)
+ERBB2,mutated,c.2324A>G (p.D775G)
+KRAS,mutated,c.35G>T (p.G12V)
+APC,mutated,c.3927_3931del (p.E1309fs)
+BRCA1,mutated,c.68_69del (p.E23fs)
+RB1,mutated,c.958C>T (p.R320*)
+PTEN,mutated,c.389G>A (p.R130Q)
+CDH1,mutated,c.1003C>T (p.R335*)
+GAPDH,wild-type,-
+ACTB,wild-type,-
+TUBA1A,wild-type,-
+RPL13A,wild-type,-
+HPRT1,wild-type,-
+B2M,wild-type,-
+YWHAZ,wild-type,-
+UBC,wild-type,-
+PGK1,wild-type,-
+HMBS,wild-type,-
